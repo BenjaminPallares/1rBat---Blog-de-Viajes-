@@ -181,7 +181,11 @@ main {
 }
 
 .texto-autor {
-    /* padding: 10px; */
+    text-align: justify;
+    text-justify: inter-word;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10px;
 }
 
 .otros_posts {
